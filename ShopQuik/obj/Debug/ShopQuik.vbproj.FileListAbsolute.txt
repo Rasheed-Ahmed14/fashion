@@ -1,0 +1,94 @@
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe.config
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\ShopQuik.pdb
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\ShopQuik.xml
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbprojAssemblyReference.cache
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AddItems.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AdminMain.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.ForgotPassword.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Paymentmain.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserMainHome.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserProfile.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.BuyForm.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.login.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Resources.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserCreate.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserMain.resources
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.GenerateResource.cache
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.CopyComplete
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.exe
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.xml
+C:\Users\Rajesh\Desktop\ShopQuik\ShopQuik\ShopQuik\obj\Debug\ShopQuik.pdb
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbprojAssemblyReference.cache
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AddItems.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AdminMain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.ForgotPassword.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.LoginMain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Paymentmain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.CartMain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Feedback.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.OrdersMain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserMainHome.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserProfile.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.BuyForm.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserCreate.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserMain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.GenerateResource.cache
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Resources.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe.config
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\ShopQuik.pdb
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\ShopQuik.xml
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.CopyComplete
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.exe
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.xml
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.pdb
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.orderdetails.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.paymentview.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.productsearch.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Productsview.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.viewuser.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.feedbackmain.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.searchuser.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.SplashScreen1.resources
+C:\Users\Rajesh\source\repos\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Adminhome.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe.config
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\bin\Debug\ShopQuik.exe
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\bin\Debug\ShopQuik.pdb
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\bin\Debug\ShopQuik.xml
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbprojAssemblyReference.cache
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AdminMain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.feedbackmain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.orderdetails.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.SplashScreen1.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserCreate.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Usermain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.paymentview.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.AddItems.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.ForgotPassword.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.LoginMain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Paymentmain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.productsearch.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Productsview.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Adminhome.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.CartMain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Feedback.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.OrdersMain.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.searchuser.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserMainHome.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.UserProfile.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.BuyForm.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.Resources.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.viewuser.resources
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.GenerateResource.cache
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.CoreCompileInputs.cache
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.vbproj.CopyComplete
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.exe
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.xml
+D:\Projects\Vb.net projects\ShopQuik\ShopQuik\obj\Debug\ShopQuik.pdb

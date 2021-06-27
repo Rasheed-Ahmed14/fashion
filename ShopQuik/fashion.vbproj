@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AEBC717D-D3B6-4775-80E9-50BBC182AE9F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ShopQuik.My.MyApplication</StartupObject>
+    <RootNamespace>ShopQuik</RootNamespace>
+    <AssemblyName>ShopQuik</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ShopQuik.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ShopQuik.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\_Getintopc.com_Bunifu_UI_Form_1.9.0.1\Bunifu_UI_Form_1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\_Getintopc.com_Bunifu_UI_Form_1.9.0.1\Bunifu_UI_Form_1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\_Getintopc.com_Bunifu_UI_Form_1.9.0.1\Bunifu_UI_Form_1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\_Getintopc.com_Bunifu_UI_Form_1.9.0.1\Bunifu_UI_Form_1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\softwares\_Getintopc.com_Bunifu_UI_Form_1.9.0.1\Bunifu_UI_Form_1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminMain.Designer.vb">
+      <DependentUpon>AdminMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\feedbackmain.Designer.vb">
+      <DependentUpon>feedbackmain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\feedbackmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\orderdetails.Designer.vb">
+      <DependentUpon>orderdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\orderdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\customization.Designer.vb">
+      <DependentUpon>customization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\customization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserCreate.Designer.vb">
+      <DependentUpon>UserCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Usermain.Designer.vb">
+      <DependentUpon>Usermain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\Usermain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment\paymentview.Designer.vb">
+      <DependentUpon>paymentview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payment\paymentview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddItems.Designer.vb">
+      <DependentUpon>AddItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Products\AddItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ForgotPassword.Designer.vb">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ForgotPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\LoginMain.Designer.vb">
+      <DependentUpon>LoginMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\LoginMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment\Paymentmain.Designer.vb">
+      <DependentUpon>Paymentmain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payment\Paymentmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\productsearch.Designer.vb">
+      <DependentUpon>productsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Products\productsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\Productsview.Designer.vb">
+      <DependentUpon>Productsview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Products\Productsview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminHome.Designer.vb">
+      <DependentUpon>AdminHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\CartMain.Designer.vb">
+      <DependentUpon>CartMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\CartMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Feedback.Designer.vb">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\Feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\OrdersMain.Designer.vb">
+      <DependentUpon>OrdersMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\OrdersMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserMainHome.Designer.vb">
+      <DependentUpon>UserMainHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserMainHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\UserProfile.Designer.vb">
+      <DependentUpon>UserProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\UserProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\BuyForm.Designer.vb">
+      <DependentUpon>BuyForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\BuyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MainModule.vb" />
+    <Compile Include="User\searchuser.Designer.vb">
+      <DependentUpon>searchuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\searchuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\viewuser.Designer.vb">
+      <DependentUpon>viewuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\viewuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin\AdminMain.resx">
+      <DependentUpon>AdminMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\feedbackmain.resx">
+      <DependentUpon>feedbackmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\orderdetails.resx">
+      <DependentUpon>orderdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\customization.resx">
+      <DependentUpon>customization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserCreate.resx">
+      <DependentUpon>UserCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Usermain.resx">
+      <DependentUpon>Usermain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment\paymentview.resx">
+      <DependentUpon>paymentview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddItems.resx">
+      <DependentUpon>AddItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\LoginMain.resx">
+      <DependentUpon>LoginMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment\Paymentmain.resx">
+      <DependentUpon>Paymentmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\productsearch.resx">
+      <DependentUpon>productsearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\Productsview.resx">
+      <DependentUpon>Productsview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminHome.resx">
+      <DependentUpon>AdminHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\CartMain.resx">
+      <DependentUpon>CartMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Feedback.resx">
+      <DependentUpon>Feedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\OrdersMain.resx">
+      <DependentUpon>OrdersMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\searchuser.resx">
+      <DependentUpon>searchuser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserMainHome.resx">
+      <DependentUpon>UserMainHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\UserProfile.resx">
+      <DependentUpon>UserProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\BuyForm.resx">
+      <DependentUpon>BuyForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\viewuser.resx">
+      <DependentUpon>viewuser.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop now1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_apps_36px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-533833660-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istock-639223110-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tcc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tcc-1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
